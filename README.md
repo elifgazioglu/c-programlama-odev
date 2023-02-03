@@ -1,7 +1,7 @@
 ﻿# c-programlama-odev
 
 
-﻿# Screenshots 📸
+Screenshots 📸
 
 
 ![Ekran görüntüsü 2023-02-03 162134](https://user-images.githubusercontent.com/103602957/216614785-4fe0bb0b-4252-4d1c-aa50-b0c703dae832.png)
