@@ -7,7 +7,7 @@
 
 
 
-![Ekran görüntüsü 2023-02-03 162153](https://user-images.githubusercontent.com/103602957/216614823-7d4843ec-3faa-4c39-86a2-e2ea45e28468.png)
+![Ekran görüntüsü 2023-02-03 162153](https://user-images.githubusercontent.com/103602957/216615161-3d04ca34-0305-469b-9a88-28f7f4f04f79.png)
 
 
 
