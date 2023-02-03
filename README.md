@@ -1,5 +1,6 @@
 ﻿# c-programlama-odev
-![Ekran görüntüsü 2023-02-03 162055](https://user-images.githubusercontent.com/103602957/216614422-6d317968-3f10-4f1f-b5d2-9bf7cf8fe6a2.png)
+
+![Ekran görüntüsü 2023-02-03 162055](https://user-images.githubusercontent.com/103602957/216615634-b23d9c00-1db6-4859-a1d6-268bab893e85.png)
 
 
 
