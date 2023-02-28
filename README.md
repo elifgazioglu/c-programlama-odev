@@ -1,4 +1,4 @@
-# Programlamaya giriş dersi (c programlama) dönem ödevi📚📄
+# Programlamaya Giriş dersi (c programlama) dönem ödevi📚📄
 
 Öğrenci Kayıt Sistemi C Programlama
 
